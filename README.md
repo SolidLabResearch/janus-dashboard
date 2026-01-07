@@ -52,3 +52,9 @@ npm run build
 - [Svelte](https://svelte.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) [Ghent University - imec](https://www.ugent.be/ea/idlab/en)
